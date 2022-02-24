@@ -1,0 +1,16 @@
+.goose {
+    color: red;
+}
+
+.dog{
+
+    color: brown;
+
+}
+
+.block{
+    background-color: gray;
+    border: solid 2px black;
+    max-width: 100px;
+
+}
